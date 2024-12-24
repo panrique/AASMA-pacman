@@ -1,0 +1,28 @@
+Team: Random Team
+Average Steps: 360.0
+Average Score: 1030.0
+Average Pacman Defeats: 1.0
+Average Pacman Victories: 0.0
+Average Ghost Deaths: 0.0
+
+Team: Greedy Team
+Average Steps: 574.0
+Average Score: 1340.0
+Average Pacman Defeats: 1.0
+Average Pacman Victories: 0.0
+Average Ghost Deaths: 1.0
+
+Team: Greedy Team w/ Social Convention
+Average Steps: 65.0
+Average Score: 170.0
+Average Pacman Defeats: 1.0
+Average Pacman Victories: 0.0
+Average Ghost Deaths: 0.0
+
+Team: Greedy Team w/ Roles
+Average Steps: 388.0
+Average Score: 1350.0
+Average Pacman Defeats: 1.0
+Average Pacman Victories: 0.0
+Average Ghost Deaths: 2.0
+
